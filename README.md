@@ -4,4 +4,4 @@
 
 
 
-**Supervised by:** Thomas Wennekers
+**Supervised by:** Thomas Wennekers (thomas.wennekers@plymouth.ac.uk)
