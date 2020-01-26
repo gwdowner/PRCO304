@@ -10,6 +10,12 @@ Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-do
 
 [github](https://github.com/gwdowner/PRCO304)
 
+## Data sources
+* [Weather data](#)
+* [Solar data](#)
+* [Wind data](#)
+* [Grid data](#)
+
 
 
 **Supervised by:** Thomas Wennekers (thomas.wennekers@plymouth.ac.uk)
