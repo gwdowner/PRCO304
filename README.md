@@ -12,7 +12,7 @@ Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-do
 
 ## Data sources
 * [Weather data](#)
-* [Solar data](#)
+* [Solar data](https://www.solar.sheffield.ac.uk/pvlive/api/)
 * [Wind data](#)
 * [Grid data](#)
 
