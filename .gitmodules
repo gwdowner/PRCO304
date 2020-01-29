@@ -1,3 +1,0 @@
-[submodule "DataService/DataService"]
-	path = DataService/DataService
-	url = https://github.com/gwdowner/DataService
