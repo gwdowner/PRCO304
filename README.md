@@ -6,8 +6,8 @@
 Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-downer)
 
 ## DevOps
-[CI server](#)
-* [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService)
+
+DataService: [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService)
 
 [github](https://github.com/gwdowner/PRCO304)
 
