@@ -7,9 +7,10 @@ Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-do
 
 ## DevOps
 
-DataService: 
-[![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService)
-[![Coverage Status](https://coveralls.io/repos/github/gwdowner/DataService/badge.svg?branch=master)](https://coveralls.io/github/gwdowner/DataService?branch=master)
+| Service | Unit tests | Coverage |
+|--|--|--|
+| Data Service | [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService) | [![Coverage Status](https://coveralls.io/repos/github/gwdowner/DataService/badge.svg?branch=master)](https://coveralls.io/github/gwdowner/DataService?branch=master) |
+|  |  |  |
 
 [github](https://github.com/gwdowner/PRCO304)
 
