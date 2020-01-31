@@ -9,7 +9,7 @@ Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-do
 
 | Service | Unit tests | Coverage |
 |--|--|--|
-| Data Service | [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService) | [![Coverage Status](https://coveralls.io/repos/github/gwdowner/DataService/badge.svg?branch=master)](https://coveralls.io/github/gwdowner/DataService?branch=master) |
+| Data Service | [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService) | <a href='https://coveralls.io/github/gwdowner/DataService'><img src='https://coveralls.io/repos/github/gwdowner/DataService/badge.svg' alt='Coverage Status' /></a> |
 |  |  |  |
 
 [github](https://github.com/gwdowner/PRCO304)
