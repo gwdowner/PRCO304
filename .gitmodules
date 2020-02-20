@@ -4,3 +4,6 @@
 [submodule "forcastservice"]
 	path = forcastservice
 	url = https://github.com/gwdowner/forcastservice
+[submodule "WebService"]
+	path = WebService
+	url = https://github.com/gwdowner/WebService
