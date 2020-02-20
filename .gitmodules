@@ -4,3 +4,6 @@
 [submodule "PRCO304Webservice"]
 	path = PRCO304Webservice
 	url = https://github.com/gwdowner/PRCO304Webservice
+[submodule "forcastservice"]
+	path = forcastservice
+	url = https://github.com/gwdowner/forcastservice
