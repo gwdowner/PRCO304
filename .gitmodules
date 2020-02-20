@@ -1,9 +1,6 @@
 [submodule "DataService"]
 	path = DataService
 	url = https://github.com/gwdowner/DataService
-[submodule "PRCO304Webservice"]
-	path = PRCO304Webservice
-	url = https://github.com/gwdowner/PRCO304Webservice
 [submodule "forcastservice"]
 	path = forcastservice
 	url = https://github.com/gwdowner/forcastservice
