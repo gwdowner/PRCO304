@@ -7,7 +7,7 @@ Trello board can be found [Here](https://trello.com/b/6xNoue4h/prco304-george-do
 
 ## DevOps
 
-| Service | Unit tests | Coverage |
+| Service | Latest Build | Coverage |
 |--|--|--|
 | Data Service | [![Build Status](https://travis-ci.com/gwdowner/DataService.svg?branch=master)](https://travis-ci.com/gwdowner/DataService) | <a href='https://coveralls.io/github/gwdowner/DataService'><img src='https://coveralls.io/repos/github/gwdowner/DataService/badge.svg' alt='Coverage Status' /></a> |
 | [Forcast Service](http://forecast.api.future-energy.live/) | [![Build Status](https://travis-ci.com/gwdowner/ForecastService.svg?branch=master)](https://travis-ci.com/gwdowner/ForecastService) | [![Coverage Status](https://coveralls.io/repos/github/gwdowner/ForecastService/badge.svg?branch=master)](https://coveralls.io/github/gwdowner/ForecastService?branch=master) |
